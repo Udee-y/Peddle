@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto">
       <div class="flex justify-between h-16">
         <div class="flex-shrink-0 flex items-center lg:pl-0 pl-8">
-          <img class="block h-6 w-auto " :src="logo" alt="Workflow" />
+          <img class="block h-6 w-auto" :src="logo" alt="Workflow" />
         </div>
 
         <div class="hidden justify-center md:flex md:space-x-8">
@@ -100,7 +100,7 @@
         >
         <button
           type="button"
-          class="relative inline-flex items-center mx-auto px-4 mt-20 py-2 text-sm font-medium  text-white color shadow-sm focus:outline-none"
+          class="relative inline-flex items-center mx-auto px-4 mt-20 py-2 text-sm font-medium text-white color shadow-sm focus:outline-none"
         >
           <span>Sign Up</span>
         </button>
@@ -134,9 +134,8 @@ export default {
 .color {
   color: #ba55d3;
   border: 2px solid #ba55d3;
-
 }
-.header-nav{
-  color: #4F5665;
+.header-nav {
+  color: #4f5665;
 }
 </style>
